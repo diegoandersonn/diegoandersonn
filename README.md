@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">Olá Mundo! Meu nome é Diego e eu sou um desenvolvedor de 19 anos. Eu sou brasileiro e nasci em Santos - SP, mas agora moro em Blumenau - SC. Estou no terceiro semestre de Analise e Desenvolvimento de Sistema no IFSC - Campus Gaspar<br><br>Hello World! My name is Diego and I'm  a 19 years old developer. I'm from Brazil and I was born in Santos - SP, but now I live em Blumenau - SC. I'm on third semester of Systems Analysis and Development on IFSC - Campus Gaspar</p>
+<p align="left">Olá Mundo! Meu nome é Diego e eu sou um desenvolvedor de 19 anos. Eu sou brasileiro e nasci em Santos - SP, mas agora moro em Blumenau - SC. Estou no terceiro semestre de Analise e Desenvolvimento de Sistema no IFSC - Campus Gaspar<br><br>Hello World! My name is Diego and I'm  a 19 years old developer. I'm from Brazil and I was born in Santos - SP, but now I live in Blumenau - SC. I'm on third semester of Systems Analysis and Development on IFSC - Campus Gaspar</p>
 
 ###
 
