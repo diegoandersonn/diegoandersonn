@@ -30,7 +30,6 @@
   <img src="https://www.fahimai.com/wp-content/uploads/2024/05/openai-chatgpt-CTA.png" height="40" />
   <img width="22"  />
   <img src="https://preview.redd.it/na6opzjr42601.jpg?auto=webp&s=39142c4179fcdd1d5007f7a4e0f5ba782490fe5b" height="40" />
-  <img width="22"  />
 </div>
 
 ###
