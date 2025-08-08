@@ -15,19 +15,19 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="80" alt="javascript logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="80" alt="typescript logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="80" alt="react logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="80" alt="html5 logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="80" alt="css3 logo"  />
   <img width="22"  />
   <img src="https://pt.quizur.com/_image?href=https://static.quizur.com/i/b/5b58ace9649c44.372067235b58ace954bf64.41136193.jpg&w=600&h=600&f=webp" height="80" />
   <img width="22"  />
-  <img src="https://www.fahimai.com/wp-content/uploads/2024/05/openai-chatgpt-CTA.png" height="40" />
+  <img src="https://www.fahimai.com/wp-content/uploads/2024/05/openai-chatgpt-CTA.png" height="80" />
   <img width="22"  />
   <img src="https://preview.redd.it/na6opzjr42601.jpg?auto=webp&s=39142c4179fcdd1d5007f7a4e0f5ba782490fe5b" height="80" />
 </div>
