@@ -27,7 +27,7 @@
   <img width="22"  />
   <img src="https://pt.quizur.com/_image?href=https://static.quizur.com/i/b/5b58ace9649c44.372067235b58ace954bf64.41136193.jpg&w=600&h=600&f=webp" height="40" />
   <img width="22"  />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/ChatGPT-Logo.svg/640px-ChatGPT-Logo.svg.png" height="40" />
+  <img src="https://www.fahimai.com/wp-content/uploads/2024/05/openai-chatgpt-CTA.png" height="40" />
   <img width="22"  />
 </div>
 
