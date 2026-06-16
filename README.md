@@ -86,29 +86,6 @@ My main interests are Backend Development, Software Architecture, Distributed Sy
 - Apresentação de soluções para gestores da Senior Sistemas.
 - Avaliação técnica que resultou em efetivação.
 
----
-
-## 📂 Projetos em Destaque
-
-### 🚚 Sistema de Delivery em Tempo Real
-- Next.js
-- Node.js
-- RabbitMQ
-- Socket.IO
-- PostgreSQL
-- Docker
-
-Sistema distribuído com comunicação assíncrona e atualização em tempo real.
-
-### 🏠 Plataforma Imobiliária
-- Next.js
-- Node.js
-- MongoDB
-
-Projeto acadêmico desenvolvido em equipe para uma imobiliária da cidade de Santos.
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
